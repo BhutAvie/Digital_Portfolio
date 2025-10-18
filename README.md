@@ -21,6 +21,8 @@ Welcome to my digital portfolio! This collection of evidence and reflections dem
 **R**: My CV is now professional, polished, and ready to share with employers.
 [Aviwe Gift Ndalana.pdf](https://github.com/user-attachments/files/20389670/Aviwe.Gift.Ndalana.pdf)
 
+---
+
 ## 🧠 2. Business Communication
 
 ### ✅ Evidence
@@ -38,6 +40,8 @@ Welcome to my digital portfolio! This collection of evidence and reflections dem
 I realized that communication isn’t just about what you say—it’s how you say it. The incorrect answers were a wake-up call. I now pay more attention to tone and context, especially in emails and online meetings. It’s not just theory; it’s shaping how I present myself professionally.
 <img width="1777" height="867" alt="Business Communication" src="https://github.com/user-attachments/assets/2738b413-75b7-4f2b-b178-f720c4b97306" />
 
+--- 
+
 ## 🤝 3. Professional Networking
 
 ### ✅ Evidence
@@ -54,8 +58,10 @@ All responses marked correct
 **R**: perfect score, confirming that I’ve internalized these principles.
 <img width="1802" height="602" alt="Professional Network" src="https://github.com/user-attachments/assets/9bf05337-fb54-42a1-abde-1a03bad0ca99" />
 
+--- 
 
 ## 🌟 4. Entrepreneurs Corner Project
+
 ### ✅ Evidence
 - TIme Spent: 4 Months
 - Business Profile: North Star
@@ -67,6 +73,8 @@ All responses marked correct
 **A**: I crafted a statement that speaks to innovation, leadership, and empowerment in digital transformation.
 **R**: A compelling profile that resonates with our team and stakeholders.
 <img width="1833" height="907" alt="Entrepreneurs corner" src="https://github.com/user-attachments/assets/2499bf80-665f-4c09-b315-106d824ca1b3" />
+
+---
 
 ## 🧠 5. UniVibe Project
 
